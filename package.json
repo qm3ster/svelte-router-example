@@ -37,7 +37,7 @@
   },
   "dependencies": {
     "history": "^4.4.1",
-    "mkdirp": "^0.5.1",
+    "mkdirp": "^1.0.0",
     "route-parser": "^0.0.5"
   }
 }
